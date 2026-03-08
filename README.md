@@ -40,19 +40,29 @@ My goal is to build **clean, maintainable and scalable software**.
 </p>
 
 ---
-
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Programming & Development
 
 <p>
 
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php">
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk">
-<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/> <b>JavaScript</b>  
+> Web programming and interactive frontend logic
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/> <b>Python</b>  
+> Data processing, scripting and backend development
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35"/> <b>PHP</b>  
+> Backend development and server-side logic
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/> <b>Java</b>  
+> Object-oriented programming and application development
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/> <b>C++</b>  
+> Low-level programming and performance-oriented systems
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="35"/> <b>R</b>  
+> Statistical computing and data analysis
 
 </p>
 
@@ -62,10 +72,14 @@ My goal is to build **clean, maintainable and scalable software**.
 
 <p>
 
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/> <b>HTML5</b>  
+> Structure and semantic layout for modern websites
 
-<img src="https://img.shields.io/badge/React-learning-61DAFB?style=for-the-badge&logo=react">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/> <b>CSS3</b>  
+> Responsive design and styling for web interfaces
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/> <b>React (Learning)</b>  
+> Modern component-based frontend framework
 
 </p>
 
@@ -75,8 +89,11 @@ My goal is to build **clean, maintainable and scalable software**.
 
 <p>
 
-<img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin">
-<img src="https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge&logo=androidstudio">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="35"/> <b>Kotlin</b>  
+> Android mobile application development
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="35"/> <b>Android Studio</b>  
+> Official IDE for Android development
 
 </p>
 
@@ -86,11 +103,17 @@ My goal is to build **clean, maintainable and scalable software**.
 
 <p>
 
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/Data%20Analysis-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Knowledge%20Engineering-grey?style=for-the-badge">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/> <b>MySQL</b>  
+> Relational database design and management
 
-<img src="https://img.shields.io/badge/Protégé-learning-blue?style=for-the-badge">
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="35"/> <b>Data Analysis</b>  
+> Extracting insights and processing datasets
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Protege_logo.png" width="35"/> <b>Protégé (Learning)</b>  
+> Ontology modeling and knowledge representation
+
+<img src="https://cdn-icons-png.flaticon.com/512/4149/4149670.png" width="35"/> <b>Knowledge Engineering</b>  
+> Building rule-based expert systems
 
 </p>
 
@@ -100,10 +123,17 @@ My goal is to build **clean, maintainable and scalable software**.
 
 <p>
 
-<img src="https://img.shields.io/badge/Arduino-teal?style=for-the-badge&logo=arduino">
-<img src="https://img.shields.io/badge/ESP32-red?style=for-the-badge&logo=espressif">
-<img src="https://img.shields.io/badge/PLC-Automation-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/TIA%20Portal-blue?style=for-the-badge">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="35"/> <b>Arduino</b>  
+> Microcontroller programming and embedded projects
+
+<img src="https://cdn.simpleicons.org/espressif" width="35"/> <b>ESP32</b>  
+> IoT microcontroller with WiFi and Bluetooth
+
+<img src="https://cdn-icons-png.flaticon.com/512/8637/8637095.png" width="35"/> <b>PLC</b>  
+> Industrial automation and programmable logic controllers
+
+<img src="https://cdn-icons-png.flaticon.com/512/8637/8637095.png" width="35"/> <b>TIA Portal</b>  
+> Siemens industrial automation engineering platform
 
 </p>
 
@@ -113,26 +143,40 @@ My goal is to build **clean, maintainable and scalable software**.
 
 <p>
 
-<img src="https://img.shields.io/badge/Microsoft%20Office-red?style=for-the-badge&logo=microsoftoffice">
-<img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma">
-<img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva">
+<img src="https://cdn.simpleicons.org/figma" width="35"/> <b>Figma</b>  
+> UI/UX interface design and prototyping
 
-<img src="https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobephotoshop">
-<img src="https://img.shields.io/badge/Illustrator-orange?style=for-the-badge&logo=adobeillustrator">
+<img src="https://cdn.simpleicons.org/canva" width="35"/> <b>Canva</b>  
+> Graphic design and digital content creation
 
-<img src="https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="35"/> <b>Adobe Photoshop</b>  
+> Image editing and digital graphics
 
-<img src="https://img.shields.io/badge/Packet%20Tracer-blue?style=for-the-badge&logo=cisco">
-<img src="https://img.shields.io/badge/PuTTY-green?style=for-the-badge">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="35"/> <b>Adobe Illustrator</b>  
+> Vector graphics and design
 
-<img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="35"/> <b>Blender</b>  
+> 3D modeling and rendering
 
-<img src="https://img.shields.io/badge/XAMPP-orange?style=for-the-badge&logo=xampp">
-<img src="https://img.shields.io/badge/VirtualBox-blue?style=for-the-badge&logo=virtualbox">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="35"/> <b>Unity</b>  
+> Game development and real-time simulation
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="35"/> <b>XAMPP</b>  
+> Local web server environment for development
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="35"/> <b>VirtualBox</b>  
+> Virtual machine and operating system virtualization
+
+<img src="https://cdn-icons-png.flaticon.com/512/4249/4249166.png" width="35"/> <b>Cisco Packet Tracer</b>  
+> Network simulation and infrastructure design
+
+<img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="35"/> <b>PuTTY</b>  
+> SSH client for remote server connections
+
+<img src="https://cdn.simpleicons.org/microsoftoffice" width="35"/> <b>Microsoft Office</b>  
+> Productivity tools for documentation and presentations
 
 </p>
-
----
 
 # 🚀 Featured Projects
 
