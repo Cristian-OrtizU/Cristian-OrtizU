@@ -178,9 +178,9 @@ Knowledge Engineering • Rule-Based Systems
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cristian-OrtizU&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cristian-OrtizU&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-OrtizU&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cristian-OrtizU&theme=tokyonight"/>
 
 </p>
 
@@ -190,27 +190,13 @@ Knowledge Engineering • Rule-Based Systems
 
 </p>
 
----
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cristian-OrtizU&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Cristian-OrtizU&theme=tokyonight&no-frame=true&row=1"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cristian-OrtizU&theme=tokyonight"/>
 
 </p>
-
----
 
 # 💡 Developer Quote
 
@@ -222,15 +208,6 @@ Knowledge Engineering • Rule-Based Systems
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Cristian-OrtizU/Cristian-OrtizU/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 
 # 📫 Connect With Me
 
