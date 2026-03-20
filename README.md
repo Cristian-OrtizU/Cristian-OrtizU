@@ -109,12 +109,6 @@ My goal is to build **clean, maintainable and scalable software**.
 <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="35"/> <b>Data Analysis</b>  
 > Extracting insights and processing datasets
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Protege_logo.png" width="35"/> <b>Protégé (Learning)</b>  
-> Ontology modeling and knowledge representation
-
-<img src="https://cdn-icons-png.flaticon.com/512/4149/4149670.png" width="35"/> <b>Knowledge Engineering</b>  
-> Building rule-based expert systems
-
 </p>
 
 ---
@@ -132,9 +126,6 @@ My goal is to build **clean, maintainable and scalable software**.
 <img src="https://cdn-icons-png.flaticon.com/512/8637/8637095.png" width="35"/> <b>PLC</b>  
 > Industrial automation and programmable logic controllers
 
-<img src="https://cdn-icons-png.flaticon.com/512/8637/8637095.png" width="35"/> <b>TIA Portal</b>  
-> Siemens industrial automation engineering platform
-
 </p>
 
 ---
@@ -145,9 +136,6 @@ My goal is to build **clean, maintainable and scalable software**.
 
 <img src="https://cdn.simpleicons.org/figma" width="35"/> <b>Figma</b>  
 > UI/UX interface design and prototyping
-
-<img src="https://cdn.simpleicons.org/canva" width="35"/> <b>Canva</b>  
-> Graphic design and digital content creation
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="35"/> <b>Adobe Photoshop</b>  
 > Image editing and digital graphics
@@ -161,17 +149,8 @@ My goal is to build **clean, maintainable and scalable software**.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="35"/> <b>Unity</b>  
 > Game development and real-time simulation
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="35"/> <b>XAMPP</b>  
-> Local web server environment for development
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="35"/> <b>VirtualBox</b>  
-> Virtual machine and operating system virtualization
-
 <img src="https://cdn-icons-png.flaticon.com/512/4249/4249166.png" width="35"/> <b>Cisco Packet Tracer</b>  
 > Network simulation and infrastructure design
-
-<img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="35"/> <b>PuTTY</b>  
-> SSH client for remote server connections
 
 <img src="https://cdn.simpleicons.org/microsoftoffice" width="35"/> <b>Microsoft Office</b>  
 > Productivity tools for documentation and presentations
