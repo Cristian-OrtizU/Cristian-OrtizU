@@ -77,7 +77,8 @@ My goal is to build **clean, maintainable and scalable software**.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/> <b>CSS3</b>  
 > Responsive design and styling for web interfaces
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/> <b>JavaScript</b>  
+> Web programming and interactive frontend logic
 </p>
 
 ---
