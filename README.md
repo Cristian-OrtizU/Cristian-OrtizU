@@ -4,7 +4,7 @@
 
 </p>
 
-<h1 align="center">Full-Stack Web Developer</h1>
+<h1 align="center">Web Developer</h1>
 
 <p align="center">
 
@@ -16,7 +16,7 @@
 
 # 👨‍💻 About Me
 
-ICT Engineering student specializing in **Computer Science** with focus on **Full-Stack Web Development**.
+ICT Engineering student specializing in **Computer Science** with focus on **Web Development**.
 
 I enjoy building **complete web applications**, including:
 
@@ -61,8 +61,7 @@ My goal is to build **clean, maintainable and scalable software**.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/> <b>C++</b>  
 > Low-level programming and performance-oriented systems
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="35"/> <b>R</b>  
-> Statistical computing and data analysis
+
 
 </p>
 
@@ -78,8 +77,6 @@ My goal is to build **clean, maintainable and scalable software**.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/> <b>CSS3</b>  
 > Responsive design and styling for web interfaces
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/> <b>React (Learning)</b>  
-> Modern component-based frontend framework
 
 </p>
 
@@ -106,29 +103,12 @@ My goal is to build **clean, maintainable and scalable software**.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/> <b>MySQL</b>  
 > Relational database design and management
 
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="35"/> <b>Data Analysis</b>  
-> Extracting insights and processing datasets
 
 </p>
 
 ---
 
-### 🤖 Hardware & Embedded Systems
 
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="35"/> <b>Arduino</b>  
-> Microcontroller programming and embedded projects
-
-<img src="https://cdn.simpleicons.org/espressif" width="35"/> <b>ESP32</b>  
-> IoT microcontroller with WiFi and Bluetooth
-
-<img src="https://cdn-icons-png.flaticon.com/512/8637/8637095.png" width="35"/> <b>PLC</b>  
-> Industrial automation and programmable logic controllers
-
-</p>
-
----
 
 ### 🧰 Tools & Software
 
@@ -146,56 +126,11 @@ My goal is to build **clean, maintainable and scalable software**.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="35"/> <b>Blender</b>  
 > 3D modeling and rendering
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="35"/> <b>Unity</b>  
-> Game development and real-time simulation
-
-<img src="https://cdn-icons-png.flaticon.com/512/4249/4249166.png" width="35"/> <b>Cisco Packet Tracer</b>  
-> Network simulation and infrastructure design
-
 <img src="https://cdn.simpleicons.org/microsoftoffice" width="35"/> <b>Microsoft Office</b>  
 > Productivity tools for documentation and presentations
 
 </p>
 
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🍗 Web Ordering System
-
-<img src="https://dummyimage.com/600x300/1f1f1f/ffffff&text=Web+Ordering+System"/>
-
-Full-stack web platform for managing food orders.
-
-**Tech**
-
-PHP • MySQL • JavaScript • CSS
-
-</td>
-
-<td width="50%">
-
-### 🧠 Computer Configuration Expert System
-
-<img src="https://dummyimage.com/600x300/1f1f1f/ffffff&text=Expert+System"/>
-
-Expert system that recommends computer configurations using rule-based knowledge.
-
-**Tech**
-
-Knowledge Engineering • Rule-Based Systems
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 # 📊 GitHub Stats
 
